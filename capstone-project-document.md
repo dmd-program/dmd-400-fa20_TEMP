@@ -39,7 +39,7 @@ Develop a project document should be able to give readers a clear understanding 
 
 ### Submission details
 
-1. Did you export the document into PDF format? If so, upload the document to Canvas by the indicated deadline.
-
+1. All drafts should be in MS Word format. Tracked changes will be used for feedback.
+2. The final document should be exportd and uploaded in PDF format.
 
 
