@@ -55,7 +55,7 @@ The following must be included in the proposal: \(Download: [MS Word template](/
 
 Does the proposal include all specified sections? Are all sections thoughtfully considered and fully developed? Is this proposal free from spelling and grammar errors? If so, submit the following:
 
-1. A PDF exported document
+1. MS Word document
 
 
 
