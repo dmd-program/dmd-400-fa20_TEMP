@@ -2,6 +2,8 @@
 
 A production report is a comprehensive update about what progress has been made. A report can consist of any visual or text description and may include screenshot images, photographs of prototypes, video of working functionality, code snippets, production artwork, concept maps, research findings, work inspiration, storyboards and scripts, etc.
 
+Reports will be due regularly throughout the course to document your progress.
+
 ## Production blog
 
 The production blog can be hosted anywhere. If you already have a blog created, you may use your existing blog to track progress for this project.
@@ -25,7 +27,7 @@ Reports take the form of blog posts or post updates, and should be published on 
 
 ## Grading Rubric
 
-This assignment is pass/fail.
+*These assignments are Pass/Fail.*
 
 **Passing:** In order to get a passing mark, you will need to show significant progress. Significant progress should demonstrate 30 hours of work. The overall project will require 100-130 hours of work.
 

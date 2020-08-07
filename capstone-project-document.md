@@ -1,6 +1,12 @@
 # Capstone project document
 
-Develop a project document should be able to give readers a clear understanding of your project, from beginning to end. Documents should be created in Adobe InDesign where possible. Documents produced in MS Word are less preferred, but acceptable. Please include a title page, abstract, overview of conceptual development. Documentation must be provided as a PDF document.
+Develop a project document that gives readers a clear understanding of your project, from beginning to end. 
+
+Documents should be created in **Adobe InDesign** if possible. Documents produced in MS Word are less preferred, but acceptable. InDesign allows greater customization with layout and typography, to allow you to showcase your design abilities and ensure you are familiar with Adobe's industry standard publication software.
+
+Please include a title page, abstract, overview of conceptual development. 
+
+Documentation must be provided as a PDF document.
 
 ## Document structure:
 
@@ -39,7 +45,6 @@ Develop a project document should be able to give readers a clear understanding 
 
 ### Submission details
 
-1. All drafts should be in MS Word format. Tracked changes will be used for feedback.
-2. The final document should be exportd and uploaded in PDF format.
+The final document should be exported and uploaded in PDF format.
 
 

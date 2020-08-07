@@ -37,7 +37,7 @@ Each project should demonstrate a minimum of entry-level skills for their chosen
 
 ## Types
 
-While project types may overlap, in general, they can be broken down into a few types. You can map [project categories](/project-categories.md) to and the following:
+While project types may overlap, in general, they can be broken down into a few types. You can map [project categories](/project-categories.md) to the following:
 
 * Client-based project
   * This project is based on fulfilling stakeholder needs and requirements.

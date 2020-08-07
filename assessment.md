@@ -1,6 +1,6 @@
 # Assessment
 
-Students in DMD400 are assessed on their ability to synthesize a feasible design project, produce deliverables on time, and engage with a design process they outlined for the project.
+Students in DMD-400 are assessed on their ability to synthesize a feasible design project, produce deliverables on time, and engage with a design process they outlined for the project.
 
 To pass the course, students must meet the capstone requirements indicated in the capstone project section.
 

@@ -4,12 +4,17 @@ The course will culminate in a public online exhibition of course work. This exh
 
 Do not submit work to the online exhibition space that is not your own that could construed as a copyright violation. This includes copyrighted music, images, video, and other works that are protected under copyright laws. If you worked with other people who have a claim over the copyright of the works, please have documentation on hand that clearly shows that you were given permission to showcase the work, either through a creative commons license, or through other types of permissions.
 
-The online exhibition format is not a new, but is a wonderful opportunity to publicly showcase your work and writing skills. See these examples of other online art and design exhibitions:
+The online exhibition is a wonderful opportunity to publicly showcase your work and writing skills. See these examples of other online art and design exhibitions:
 
-**Art and design exhibition works (physical)**
+**Art and design exhibitions (physical)**
 
 - [SIGGRAPH Digital Archive](https://digitalartarchive.siggraph.org/2d-wall-hung-years/)
 - [Prix Ars Electronica](https://ars.electronica.art/prix/en/)
+
+**Art and design exhibitions (virtual)**
+- [New Museum: First Look](https://www.newmuseum.org/exhibitions/online)
+- [Digital Fringe Festival](https://fringearts.com/digital-fringe-2019/)
+- [Rhizome](https://rhizome.org/)
 
 **SIGGRAPH Digital Arts Community (DAC) Online Exhibitions**
 
@@ -23,6 +28,7 @@ The online exhibition format is not a new, but is a wonderful opportunity to pub
 - http://gameartshow.siggraph.org/gas/
 - http://arts.siggraph.org/environment/
 - http://arts.siggraph.org/siggraph2011/
+
 
 ## Media
 
@@ -83,5 +89,8 @@ Convert audio files to `.mp3` so they may be playable from a web browser.
   
 ## Submission details
 
+***IMPORTANT:*** Follow the file naming conventions above.
+
 1. Submit the final project media to Canvas by the indicated date in a `.zip` file.
 2. Submit the exhibition information form on Canvas by the indicated date on Canvas.
+

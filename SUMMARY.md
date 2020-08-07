@@ -2,7 +2,6 @@
 
 * [About](README.md)
 * [Introduction](introduction.md)
-* [Instructor](instructor.md)
 * [Assessment](assessment.md)
 * [Concept development](concept-development.md)
 * [Capstone project](capstone-project.md)
@@ -15,11 +14,5 @@
   * [7. Project explainer video](project-explainer-video.md)
   * [8. Capstone project exhibition](capstone-project-exhibition.md)
 * [Project categories](project-categories.md)
-  * [Animation](animation.md)
-  * [Realtime and interactive](interactive.md)
-  * [Product, service, UI/UX](product-or-service.md)
-  * [2D / 3D design and illustration](2D-or-3D-design-illustration.md)
-  * [Video production](audiovideo.md)
-  * [Art or design intervention](installation-art-or-design-intervention.md)
 * [License](license.md)
 

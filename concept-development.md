@@ -6,6 +6,7 @@ A concept is a core idea \(or set of ideas\) that signify basic values, motivati
 
 * "Top-down" approach
 * Process of deduction
+* Theory » Hypothesis » Observation » Confirmation
 
 Concepts are directed through a mapping process either before or in the beginning stages of a project. An interpretation of outcomes of an inquiry will depend in part on the frame of reference of existing knowledge. What is known helps identify what is not. Situating is a method that opens up lines of inquiry commonly used to review literature and information sources in the public domain. Situating is a curatorial process for looking at existing things in new ways.
 
@@ -13,10 +14,13 @@ Concepts are directed through a mapping process either before or in the beginnin
 
 * "Bottom-up" approach
 * Process of induction
+* Observations » Pattern » Hypothesis » Theory
 
 Concepts emerge over the course of the project through an ongoing discovery process. A core purpose of inquiry is to discover new knowledge or the possibility of thinking about things in new, innovative ways. To reveal something relies on others experiencing a change of awareness or understanding. Revealing, therefore is not only a method of discovery, but requires multiple ways of communicating to target groups and others.
 
-A project concept is always in support of an overarching theme or purpose. A well developed concept can help the artist or designer to ask questions in novel or provocative ways or to find new approaches to solving problems or eliciting emotional responses. Once you have the concept, all decisions are for the purpose of expressing it as effectively as possible. Depending on your interests, you don't always have to develop the core theme or issue. Design competitions are a good place to start if you are unsure of where to begin:
+---
+
+A project concept is always in support of an overarching theme or purpose. A well developed concept can help the artist or designer to ask questions in novel or provocative ways or to find new approaches to solving problems or eliciting emotional responses. Once you have the concept, all decisions are for the purpose of expressing it as effectively as possible. Depending on your interests, you don't always have to develop the core theme or issue. Design competitions and festivals are a good place to start if you are unsure of where to begin:
 
 **UX, product, service and social design:**
 
@@ -53,6 +57,12 @@ https://type-competition.tdc.org/communication-entrieshttps://www.penguin.co.uk/
 * [Animation World Competition](https://www.awn.com/events/contests)
 * [The Rookies](https://www.therookies.co/contests)
 
+**New Media Art**
+
+* [Ars Electronica](https://ars.electronica.art/news/en/)
+* [Transmediale](https://transmediale.de/)
+* [SXSW](https://www.sxsw.com/) \(sound, film, art, games, VR\)
+* [Rhizome](https://rhizome.org/) \(net art\)
 
 ## How to develop a good concept
 
